@@ -1,5 +1,5 @@
-const { render } = require('../../lib');
-const Flex = require('../../lib');
+const { render } = require('../../../lib');
+const Flex = require('../../../lib');
 let { Page, fml, addState } = Flex;
 
 class App extends Page {
