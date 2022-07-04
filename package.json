@@ -2,7 +2,8 @@
   "name": "flexui",
   "description": "FlexUI is a frontend framework like reacts, vue, and svelte. Flex takes a more object oriennted aprouch to build user interfaces",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
   "directories": {
     "lib": "lib",
     "test": "test"

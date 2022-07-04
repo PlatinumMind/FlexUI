@@ -1,0 +1,6 @@
+to build:
+
+1. npm i
+2. npx babel src/index.js --out-file=built.js
+3. npx webpack ./built --mode development 
+4. npx serve dist
