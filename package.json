@@ -1,0 +1,35 @@
+{
+  "name": "flexui",
+  "description": "FlexUI is a frontend framework like reacts, vue, and svelte. Flex takes a more object oriennted aprouch to build user interfaces",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {
+    "@babel/cli": "7.18.6",
+    "@babel/core": "7.18.6",
+    "@babel/plugin-proposal-class-properties": "^7.18.6",
+    "@babel/plugin-proposal-decorators": "^7.18.6",
+    "@babel/plugin-transform-react-jsx": "^7.18.6",
+    "webpack-cli": "4.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xonon-business/FlexUI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xonon-business/FlexUI/issues"
+  },
+  "homepage": "https://github.com/xonon-business/FlexUI#readme",
+  "dependencies": {
+    "snabbdom": "^3.5.1"
+  }
+}
