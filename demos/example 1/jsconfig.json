@@ -1,0 +1,6 @@
+// or tscondig.json
+{
+    "compilerOptions": {
+        "experimentalDecorators": true
+    }
+}

@@ -1,0 +1,5 @@
+run:
+
+1. tsc or npx tsc
+2. npx babel index.js --out-file build.js
+3. npx webpack --mode development build.js
